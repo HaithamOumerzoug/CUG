@@ -1,8 +1,8 @@
 #include <QtAlgorithms>
 #include <QList>
 
-#include "sommet.h"
-#include "arete.h"
+#include "../include/sommet.h"
+#include "../include/arete.h"
 
 using namespace CUG;
 
