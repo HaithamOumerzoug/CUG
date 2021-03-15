@@ -1,5 +1,5 @@
-#include "sommetgraphics.h"
-#include "aretegraphics.h"
+#include "../include/sommetgraphics.h"
+#include "../include/aretegraphics.h"
 #include <QPropertyAnimation>
 
 
