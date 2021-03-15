@@ -1,4 +1,4 @@
-#include "inputdata.h"
+#include "../include/inputdata.h"
 
 #include <QLabel>
 #include <QLineEdit>
