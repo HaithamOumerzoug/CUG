@@ -1,6 +1,6 @@
 #include <queue>
 
-#include "graphe.h"
+#include "../include/graphe.h"
 
 using namespace CUG;
 
