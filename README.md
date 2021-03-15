@@ -33,10 +33,10 @@
 **P.S: we are using BACKTRACKING to colorate SUDOKU graph. Because, all the regular algorithms don't give the wanted used number of colors.**
 
 ## Authors
--	Boussouf Hajar
--	Ed-dahbi Abdel Majid
--	El Moussaoui Said
--	El Yazidi Ouassim
+* Boussouf Hajar
+* Ed-dahbi Abdel Majid
+* **[El Moussaoui Said](https://github.com/elmoussaouisaid)**
+* El Yazidi Ouassim
 * **[Oumerzoug Haitham](https://github.com/HaithamOumerzoug)**
 * **[Outama Othmane](https://github.com/outama-othmane)**
 
