@@ -1,5 +1,5 @@
-#include "arete.h"
-#include "sommet.h"
+#include "../include/arete.h"
+#include "../include/sommet.h"
 
 using namespace CUG;
 
