@@ -1,5 +1,5 @@
-﻿#include "sudoku.h"
-#include "surinterface.h"
+﻿#include "../include/sudoku.h"
+#include "../include/surinterface.h"
 #include <QLabel>
 #include <QInputDialog>
 #include <QToolBar>
