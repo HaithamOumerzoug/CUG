@@ -1,4 +1,4 @@
-#include "aretegraphics.h"
+#include "../include/aretegraphics.h"
 #include <QtMath>
 
 
